@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../website project/Styling"
+		},
+		{
+			"path": "../website project/.vscode"
+		},
+		{
+			"path": "../website project/js"
+		}
+	],
+	"settings": {}
+}
